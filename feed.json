@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Teodor Blog",
     "description": "",
-    "home_page_url": "https://teodoroba.github.io/blog",
-    "feed_url": "https://teodoroba.github.io/blog/feed.json",
+    "home_page_url": "https://blog.teodor-doroba.workers.dev",
+    "feed_url": "https://blog.teodor-doroba.workers.dev/feed.json",
     "user_comment": "",
     "author": {
         "name": "Teodor Doroba"
