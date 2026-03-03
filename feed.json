@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Teodor Blog",
+    "description": "",
+    "home_page_url": "https://teodoroba.github.io/blog",
+    "feed_url": "https://teodoroba.github.io/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Teodor Doroba"
+    },
+    "items": [
+        {
+            "id": "https://teodoroba.github.io/blog/test.html",
+            "url": "https://teodoroba.github.io/blog/test.html",
+            "title": "test",
+            "summary": "test blog",
+            "content_html": "<p>test blog</p>",
+            "author": {
+                "name": "Teodor Doroba"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-03T09:05:37+01:00",
+            "date_modified": "2026-03-03T09:06:18+01:00"
+        }
+    ]
+}

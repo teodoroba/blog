@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Teodor Blog</title>
+    <link href="https://teodoroba.github.io/blog/feed.xml" rel="self" />
+    <link href="https://teodoroba.github.io/blog" />
+    <updated>2026-03-03T09:06:18+01:00</updated>
+    <author>
+        <name>Teodor Doroba</name>
+    </author>
+    <id>https://teodoroba.github.io/blog</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>Teodor Doroba</name>
+        </author>
+        <link href="https://teodoroba.github.io/blog/test.html"/>
+        <id>https://teodoroba.github.io/blog/test.html</id>
+
+        <updated>2026-03-03T09:05:37+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    test blog
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test blog</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
