@@ -3,7 +3,7 @@
     <title>Teodor Blog</title>
     <link href="https://teodoroba.pl/feed.xml" rel="self" />
     <link href="https://teodoroba.pl" />
-    <updated>2026-03-08T14:53:08+01:00</updated>
+    <updated>2026-03-08T14:59:30+01:00</updated>
     <author>
         <name>Teodor Doroba</name>
     </author>
@@ -25,7 +25,8 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <h1>Discontinuous Continuity</h1>
+                <h1><figure class="post__image"><img loading="lazy"  src="https://teodoroba.pl/media/posts/3/surreal-mandala.jpg" alt="" width="832" height="1248" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teodoroba.pl/media/posts/3/responsive/surreal-mandala-xs.jpg 300w ,https://teodoroba.pl/media/posts/3/responsive/surreal-mandala-sm.jpg 480w ,https://teodoroba.pl/media/posts/3/responsive/surreal-mandala-md.jpg 768w"></figure></h1>
+<h1>Discontinuous Continuity</h1>
 <p>Zdarza się, że myślisz o jednej rzeczy, a wychodzi inna ale jako odkrycie intelektualne. Budowałem fikcyjną metodę zarządzania, rodzaj prowokacji intelektualnej, i potrzebowałem zasad, które brzmią fałszywie mądrze. Zasada jednego z pryncypiów tej metody miała być intelektualną atrapą, lustrem dla kogoś, kto przyjmuje ogólnie uznane idee bezkrytycznie. Wyszło niechcący coś odwrotnego. Zmyślona zasada:</p>
 <blockquote>
 <p>Discontinuous Continuity* — doskonalenie destabilizuje procesy</p>
