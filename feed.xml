@@ -3,14 +3,14 @@
     <title>Teodor Blog</title>
     <link href="https://teodoroba.pl/feed.xml" rel="self" />
     <link href="https://teodoroba.pl" />
-    <updated>2026-03-08T10:59:13+01:00</updated>
+    <updated>2026-03-08T14:53:08+01:00</updated>
     <author>
         <name>Teodor Doroba</name>
     </author>
     <id>https://teodoroba.pl</id>
 
     <entry>
-        <title>Discontinuous Continuity</title>
+        <title>Przerywana ciągłość</title>
         <author>
             <name>Teodor Doroba</name>
         </author>
@@ -20,27 +20,38 @@
         <updated>2026-03-08T10:59:13+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Zdarza się, że myślisz o jednej rzeczy, a wychodzi inna — nie jako błąd, ale jako odkrycie. Budowałem fikcyjną metodę&hellip;
+                    Discontinuous Continuity Zdarza się, że myślisz o jednej rzeczy, a wychodzi inna ale jako odkrycie intelektualne. Budowałem fikcyjną metodę zarządzania,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h1 class="text-text-100 mt-3 -mb-1 text-[1.375rem] font-bold"> </h1>
-<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Zdarza się, że myślisz o jednej rzeczy, a wychodzi inna — nie jako błąd, ale jako odkrycie. Budowałem fikcyjną metodę zarządzania, rodzaj prowokacji intelektualnej, i potrzebowałem zasad które brzmią fałszywie mądrze. Zasada szósta miała być jak pozostałe: atrapą, lustrem dla kogoś kto przyjmuje bezkrytycznie. Wyszło coś odwrotnego. <em>Discontinuous Continuity</em> — doskonałenie destabilizuje procesy — okazało się opisem czegoś realnego, a nie tylko dobrze brzmiącym nonsensem. Umysł skonstruował narzędzie krytyki i przy okazji trafił w coś, czego nie szukał.</p>
+                <h1>Discontinuous Continuity</h1>
+<p>Zdarza się, że myślisz o jednej rzeczy, a wychodzi inna ale jako odkrycie intelektualne. Budowałem fikcyjną metodę zarządzania, rodzaj prowokacji intelektualnej, i potrzebowałem zasad, które brzmią fałszywie mądrze. Zasada jednego z pryncypiów tej metody miała być intelektualną atrapą, lustrem dla kogoś, kto przyjmuje ogólnie uznane idee bezkrytycznie. Wyszło niechcący coś odwrotnego. Zmyślona zasada:</p>
 <blockquote>
-<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">To nie jest rzadka sytuacja. Jest stara.</p>
+<p>Discontinuous Continuity* — doskonalenie destabilizuje procesy</p>
 </blockquote>
-<hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
-<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Mnisi tybetańscy spędzają tygodnie nad mandalą z kolorowego piasku. Praca jest precyzyjna, skupiona, wykonywana narzędziami które pozwalają osadzić ziarno przy ziarnie. Mandala rośnie jako wyraz kosmicznego porządku — symetria, kolor, forma. Kiedy jest gotowa, zostaje zniszczona. Piasek rozsypany, zmieciony, wrzucony do rzeki. Nie przez przypadek — przez intencję.</p>
-<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Zniszczenie nie jest zaprzeczeniem pracy. Jest jej częścią, może nawet celem. Praca nie traci sensu przez to, że znika — zyskuje go właśnie przez to. Gdyby mandala miała trwać, mnisi robiliby coś innego: konserwowali, chronili, wystawiali. Robią jednak to: tworzą i niszczą, w jednym ruchu, powtarzalnie. Ciągłość praktyki istnieje przez nieciągłość formy. To nie jest paradoks — to jest mechanizm.</p>
-<hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
-<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Hegel widział to samo w ruchu idei. Teza rodzi antytezę nie dlatego, że jest słaba, ale dlatego, że jest kompletna — a każda kompletność nosi w sobie zaprzeczenie. Synteza nie jest kompromisem między tezą a antytezą. Jest nową jakością, która nie byłaby możliwa bez zerwania. Postęp dialektyczny nie jest liniowy — jest skokowy, i każdy skok wymaga rozbicia tego co było.</p>
-<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Schumpeter przełożył ten mechanizm na ekonomię i nazwał go twórczą destrukcją. Kapitalizm żyje nie przez akumulację, ale przez niszczenie starych form — technologii, przedsiębiorstw, całych branż. To co wydaje się kryzysem jest warunkiem nowego cyklu. Gospodarka która chroni stare formy przed zniszczeniem chroni je przed zastąpieniem. Stagnacja nie jest brakiem aktywności — jest nadmiarem ochrony.</p>
-<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Schweitzer widział w tym mechanizmie coś głębszego i mniej optymistycznego: tragiczne prawo, według którego każdemu zyskowi przypada jakaś strata.¹ Postęp nie jest czysty. Każda synteza coś traci, każde zerwanie zostawia koszt. To nie unieważnia mechanizmu — ale przypomina że nie jest on bezbolesny i że entuzjazm wobec destrukcji jako narzędzia wymaga trzeźwości.</p>
-<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Nietzsche, mniej systematycznie, ale celniej: *trzeba mieć chaos w sobie, żeby urodzić tańczącą gwiazdę.*² Chaos nie jako destrukcja dla destrukcji, ale jako warunek energii twórczej. Porządek który nigdy nie zostaje zaburzony nie jest porządkiem — jest skostnieniem.</p>
-<hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
-<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Shunryu Suzuki mówił o <em>beginner's mind</em> — umyśle początkującego. W umyśle eksperta jest mało możliwości, bo ekspert wie już jak jest. W umyśle początkującego jest ich wiele, bo jeszcze nie wie.³ Żeby wrócić do umysłu początkującego, trzeba czegoś co jest trudniejsze niż nauka: trzeba zapomnieć, rozmontować, wyjść z formy którą się budowało latami.</p>
-<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Droga zen nie jest liniowym postępem od niewiedzącego do mistrza. Jest serią powrotów do początku — na coraz głębszym poziomie, ale jednak powrotów. Każdy powrót wymaga porzucenia tego, co się zbudowało. Nie zmarnowania — porzucenia. To różnica, którą czuć dopiero przy samym porzuceniu.</p>
+<p>okazała się opisem realnego procesu, a nie tylko dobrze brzmiącym nonsensem. Umysł skonstruował narzędzie krytyki i przy okazji trafił w coś, czego nie szukał. Zbieracze kamyków na plaży znają tę sytuację dobrze, kiedy idą zbierać kolorowe kamyki i mają już całkiem zgrabną kolekcję natrafiają na bursztyn, jeden potem drugi, trzeci. Nie wiadomo kiedy, ale jednak, kamyki wypadają same z rąk, a zostają bursztyny. Nieświadoma selekcja w wyborze lepszego od dobrego.</p>
+<hr>
+<p>Mnisi tybetańscy spędzają tygodnie nad mandalą z kolorowego piasku. Praca jest precyzyjna, skupiona, wykonywana narzędziami które pozwalają osadzić ziarno przy ziarnie. Mandala rośnie jako wyraz kosmicznego porządku — symetria, kolor, forma. Kiedy jest gotowa, zostaje zniszczona. Piasek rozsypany, zmieciony, wrzucony do rzeki. Nie przez przypadek tylko przez intencję twórcu, który nie przywiązuje wagi do swojego dzieła, a składa hołd pracy samej w sobie i czerpania radości z tworzenia. Celem jest droga, nie cel. Wyświechtana idea na wylot, ale nie znaczy, że nie słuszna.</p>
+<p>Zniszczenie nie jest zaprzeczeniem pracy, ale jej integralną częścią, może nawet celem. Praca nie traci sensu przez to, że znika — zyskuje go właśnie przez to. Gdyby mandala miała trwać wiecznie bylaby arrasem, albo mwspaniałym malunkiem na ścianie, uwieczniającym trud włożonej pracy ale i piękno dzieła. Jednak w jednym ruchu dzieło znika, niepowtarzalnie. Ciągłość tej praktyki istnieje przez nieciągłość formy jako pewien mechanizm. W zniszczeniu doskonałej formy musi istnieć wyższa wartość od samej formy. Pusta forma, która może być wypełniona czymkolwiek.</p>
+<hr>
+<p>Hegel widział to samo w ruchu idei. Teza rodzi antytezę dlatego, że jest kompletna — a każda kompletność nosi w sobie zaprzeczenie. Tak chyba zbudowany jest nasz umysł, od razu widzi przeciwieństwa. Synteza nie jest kompromisem między tezą a antytezą. Jest nową jakością, która nie byłaby możliwa bez zerwania. Postęp dialektyczny nie jest liniowy — jest skokowy, i każdy skok wymaga rozbicia tego co było.</p>
+<p>Schumpeter przełożył ten mechanizm na ekonomię i nazwał go twórczą destrukcją. Kapitalizm żyje nie przez akumulację, ale przez niszczenie starych form — technologii, przedsiębiorstw, całych branż. Obserwujemy to obecnie namacalnie widząć jak rozwija się modele językowe AI, jakie to niesie zniszczenie dla starych, znanych form. To co wydaje się kryzysem jest warunkiem nowego cyklu. Gospodarka która chroni stare formy przed zniszczeniem chroni je przed zastąpieniem. Stagnacja nie jest brakiem aktywności — jest nadmiarem ochrony.</p>
+<p>Schweitzer widział w tym mechanizmie coś głębszego i mniej optymistycznego: tragiczne prawo, według którego każdemu zyskowi przypada jakaś strata.¹ Postęp nie jest czysty. Każda synteza coś traci, każde zerwanie zostawia koszt. To nie unieważnia mechanizmu — ale przypomina że nie jest on bezbolesny i że entuzjazm wobec destrukcji jako narzędzia wymaga trzeźwości.</p>
+<p>Nietzsche, mniej systematycznie, ale celniej: *trzeba mieć chaos w sobie, żeby urodzić tańczącą gwiazdę.*² Chaos nie jako destrukcja dla destrukcji, ale jako warunek energii twórczej. Porządek który nigdy nie zostaje zaburzony nie jest porządkiem — jest skostnieniem ponieważ podlega erozji z czasem.</p>
+<hr>
+<p>Shunryu Suzuki mówił o <em>beginner's mind</em> — umyśle początkującego. W umyśle eksperta jest mało możliwości, bo ekspert wie już jak jest. W umyśle początkującego jest ich wiele, bo jeszcze nie wie.³ Żeby wrócić do umysłu początkującego, trzeba czegoś co jest trudniejsze niż nauka: trzeba zapomnieć, rozmontować, wyjść z formy którą się budowało latami.</p>
+<p>Bodhidharma siedział przed ścianą przez dziewięć lat. Nie doskonalił formy — porzucił przywiązanie do niej. W <em>Bloodstream Sermon</em> pisze: *"If you attain anything at all, it's conditional, it's karmic."*⁴ Każde osiągnięcie które można nazwać osiągnięciem jest już uwięzione w przyczynie i skutku. To co naprawdę uwalnia, nie może być zdobyte — może tylko przestać być blokowane przez szukanie. Porzucenie nie jest rezygnacją. Jest warunkiem.</p>
+<hr>
+<p><em>Discontinuous Continuity</em> jako zasada mówi: ciągłość bez przerwy prowadzi do stagnacji, przerwa bez nowej ciągłości prowadzi do chaosu. Jedyna droga jest między nimi — nieciągłość która nie niszczy drogi, tylko formę na której droga przez chwilę stała.</p>
+<p>To brzmi jak paradoks tylko dopóki myślisz o ciągłości jako o wartości samej w sobie. Jeśli ciągłością jest praktyka, a nie forma — mandala może być zniszczona. Jeśli ciągłością jest zdolność do zmiany, a nie jej brak — plateau jest sygnałem, nie sukcesem. Jeśli ciągłością jest kierunek, a nie metoda — każda metoda jest tymczasowa i to jest w porządku.</p>
+<p>Szukałem fałszywego i znalazłem prawdziwe. Zdarza się to częściej niż myślimy — i jest osobnym argumentem za tym, żeby budować prowokacje z namysłem. Umysł który bawi się strukturą poznaje ją głębiej niż umysł który ją tylko stosuje.</p>
+<hr>
+<h3>Przypisy</h3>
+<p>¹ Albert Schweitzer, <em>Filozofia kultury</em> (<em>Philosophie der Kultur</em>, t. I–II, 1923). Cytat wymaga weryfikacji strony w posiadanym wydaniu.</p>
+<p>² Friedrich Nietzsche, <em>Tako rzecze Zaratustra</em> (1883–1885), Prolog, §5.</p>
+<p>³ Shunryu Suzuki, <em>Zen Mind, Beginner's Mind</em> (1970), Wstęp.</p>
+<p>⁴ Bodhidharma, <em>The Zen Teaching of Bodhidharma</em>, tłum. Red Pine, North Point Press, 1989, <em>Bloodstream Sermon</em>, s. 15.</p>
             ]]>
         </content>
     </entry>
