@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Prześwity rzeczywistości",
+    "title": "teodoroba.pl",
     "description": "",
     "home_page_url": "https://teodoroba.pl",
     "feed_url": "https://teodoroba.pl/feed.json",
     "user_comment": "",
-    "icon": "https://teodoroba.pl/media/website/enso-oliwka.jpg",
+    "icon": "https://teodoroba.pl/media/website/ensodd2.png",
     "author": {
         "name": "Teodor Doroba"
     },
